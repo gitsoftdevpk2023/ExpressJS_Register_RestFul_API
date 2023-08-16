@@ -25,3 +25,6 @@
 
 // install body-parser
 // npm install body-parser
+
+// install incrypt password
+// npm install bcryptjs

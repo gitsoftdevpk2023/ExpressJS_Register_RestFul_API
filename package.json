@@ -1,0 +1,29 @@
+{
+  "name": "loginregister",
+  "version": "1.0.0",
+  "description": "// initialize  project & create package.json // $ npn init -y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "dev@PALASH KAYAL",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitsoftdevpk2023/ExpressJS_Register_RestFul_API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gitsoftdevpk2023/ExpressJS_Register_RestFul_API/issues"
+  },
+  "homepage": "https://github.com/gitsoftdevpk2023/ExpressJS_Register_RestFul_API#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "mongooses": "^1.0.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
